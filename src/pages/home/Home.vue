@@ -1,6 +1,6 @@
 <template>
   <div class="home-wrapper">
-    <lt-header :title="'九牛贷'" :showBackBtn="'0'"></lt-header>
+    <lt-header :title="'乐贷款'" :showBackBtn="'0'"></lt-header>
     <tab-nav :active="'true'"></tab-nav>
     <div class="content">
       <div class="action-wrapper">
